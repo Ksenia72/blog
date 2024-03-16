@@ -1,0 +1,8 @@
+[submodule "Ksenia72.github.io"]
+	path = Ksenia72.github.io
+	url = git@github.com:Ksenia72/Ksenia72.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:Ksenia72/Ksenia72.github.io.git
+	branch = main
